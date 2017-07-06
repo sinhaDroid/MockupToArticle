@@ -6,7 +6,7 @@ Udacity Front End Developer Project using html
 ## Project Overview
 Hey there, web developer! Congratulations on making it this far! Here's your next project: **translating a mockup to HTML**. This is similar to the exercise from earlier in the problem set, except this article is going to be a bit more complicated. I'll be giving you a mockup of a website (and a copy of the text in it). It's going to be your job to recreate it with HTML.
 
-You're going to see some formatting you haven't encountered before, so you'll need to use a resource, like the [MDN element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element){:target="_blank"}, to research new elements.
+You're going to see some formatting you haven't encountered before, so you'll need to use a resource, like the [MDN element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element), to research new elements.
 
 
 ## Project Instructions
@@ -34,4 +34,4 @@ Practice HTML syntax by converting a mockup of a blog article into a real websit
 
 ## Result
 
-To see the final result [check here] (http://www.google.com){:target="_blank"}
+To see the final result [check here] (http://www.google.com)
